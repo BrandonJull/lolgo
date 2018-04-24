@@ -1,5 +1,5 @@
 # lolgo
-A wrapper for the League of Legends API written in Go using the [Official API](http://developers.riotgames.com/)
+A wrapper for the League of Legends API written in Go using the [Official API](http://developer.riotgames.com/)
 
 ## Setup
 
@@ -13,7 +13,7 @@ go get github.com/brandonjull/lolgo
 
 ### 2. Obtain a Riot Games API key
 
-Sign in with your account at: (http://developers.riotgames.com/) and generate an API key.
+Sign in with your account at: (http://developer.riotgames.com/) and generate an API key.
 
 ## Usage Example
 
@@ -26,7 +26,7 @@ import (
 )
 
 func main() {
-	// Riot API key (http://developers.riotgames.com/)
+	// Riot API key (http://developer.riotgames.com/)
 	api := api.NewRiotAPI("YOUR_KEY_HERE", "na1", "v3")
 
 	// Usage example.

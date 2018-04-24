@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	// Riot API key (http://developers.riotgames.com/)
+	// Riot API key (http://developer.riotgames.com/)
 	api := api.NewRiotAPI("YOUR_KEY_HERE", "na1", "v3")
 
 	// Usage example.
