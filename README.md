@@ -13,7 +13,7 @@ go get github.com/brandonjull/lolgo
 
 ### 2. Obtain a Riot Games API key
 
-Sign in with your account at: (http://developer.riotgames.com/) and generate an API key.
+Sign in with your account at: http://developer.riotgames.com/ and generate an API key.
 
 ## Usage Example
 
